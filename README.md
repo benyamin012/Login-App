@@ -3,7 +3,9 @@
 A **modern, responsive login page** built with HTML, CSS, and JavaScript — designed to be clean, minimal, and user-friendly ✨
 
 <p align="center">
-  <img src="img/screenshot.png" alt="Login Page Screenshot" width="600">
+  <img src="img/login.png" width="300">
+  <img src="img/singup.png" width="300">
+  <img src="img/admin.png" width="300">
 </p>
 
 ---
