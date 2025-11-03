@@ -12,7 +12,7 @@ A **modern, responsive login page** built with HTML, CSS, and JavaScript — des
 
 ## 🚀 Live Demo
 
-🔗 [View Online](https://benyamin012.github.io/Login-Page/)
+🔗 [View Online](https://benyamin012.github.io/Login-App/)
 
 ---
 
